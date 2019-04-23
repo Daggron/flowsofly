@@ -181,13 +181,15 @@ img:hover{
 
 
 #video{
-    height: 100vh;
+    height: 70vh;
     width: 100vw;
     overflow: hidden;
+
 }
 
 #video video{
-    height: 100vh;
+    margin-top: 10vh;
+    height: 70vh;
     width: 100vw;
 
 }
