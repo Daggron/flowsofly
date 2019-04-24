@@ -104,7 +104,7 @@ svg {
 
 
 .image-gallery{
-    height: 150vh;
+    height: 170vh;
 }
 .outer-box{
     width: 80vw;
@@ -128,7 +128,7 @@ svg {
     object-position: center;
     border: 1px solid black;
     margin-top: 30%;
-  
+
 }
 
 img:hover{
@@ -238,7 +238,7 @@ img:hover{
     margin-left: 20vw;
     text-align: center;
     margin-top: -5%;
-    
+
 }
 
 #links ul li{
@@ -262,8 +262,8 @@ ul li a{
     #links ul{
     width: 100vw;
     margin-left: -10%;
-    text-align: center; 
-    margin-top: -10%; 
+    text-align: center;
+    margin-top: -10%;
 }
     ul li a{
     text-align: center;
