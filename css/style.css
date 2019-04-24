@@ -157,7 +157,7 @@ img:hover{
 
 @media all and (max-width:550px){
     .image-gallery{
-        height: 320vh!important;
+        height: 390vh!important;
     }
     .in-box{
         margin-top: 10%;
@@ -166,7 +166,7 @@ img:hover{
 
 @media screen and (max-width:370px){
     .image-gallery{
-        height: 350vh!important;
+        height: 400vh!important;
         margin-top: 20%;
     }
 
